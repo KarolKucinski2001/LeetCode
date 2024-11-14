@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KarolKucinski2001/LeetCode/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KarolKucinski2001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+## Binary Search
+|  |
+| ------- |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KarolKucinski2001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 <!---LeetCode Topics End-->
