@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KarolKucinski2001/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/KarolKucinski2001/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/KarolKucinski2001/LeetCode/tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/KarolKucinski2001/LeetCode/tree/master/1086-divisor-game) |
 ## Dynamic Programming
@@ -107,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KarolKucinski2001/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/KarolKucinski2001/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
