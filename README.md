@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarolKucinski2001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarolKucinski2001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KarolKucinski2001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/KarolKucinski2001/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/KarolKucinski2001/LeetCode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
@@ -47,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarolKucinski2001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarolKucinski2001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KarolKucinski2001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/KarolKucinski2001/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarolKucinski2001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/KarolKucinski2001/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -113,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KarolKucinski2001/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/KarolKucinski2001/LeetCode/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/KarolKucinski2001/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 <!---LeetCode Topics End-->
