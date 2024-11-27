@@ -120,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/KarolKucinski2001/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/KarolKucinski2001/LeetCode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
