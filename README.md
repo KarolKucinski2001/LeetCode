@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/KarolKucinski2001/LeetCode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0047-permutations-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarolKucinski2001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarolKucinski2001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/KarolKucinski2001/LeetCode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0047-permutations-ii) |
 ## Tree
 |  |
