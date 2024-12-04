@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/KarolKucinski2001/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/KarolKucinski2001/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/KarolKucinski2001/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KarolKucinski2001/LeetCode/tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/KarolKucinski2001/LeetCode/tree/master/1086-divisor-game) |
 ## Dynamic Programming
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KarolKucinski2001/LeetCode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/KarolKucinski2001/LeetCode/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/KarolKucinski2001/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/KarolKucinski2001/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/KarolKucinski2001/LeetCode/tree/master/0184-department-highest-salary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KarolKucinski2001/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/KarolKucinski2001/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
