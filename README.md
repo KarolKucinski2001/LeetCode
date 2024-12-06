@@ -30,16 +30,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KarolKucinski2001/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/KarolKucinski2001/LeetCode/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KarolKucinski2001/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/KarolKucinski2001/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/KarolKucinski2001/LeetCode/tree/master/0067-add-binary) |
 ## Array
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/KarolKucinski2001/LeetCode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/KarolKucinski2001/LeetCode/tree/master/0049-group-anagrams) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarolKucinski2001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarolKucinski2001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KarolKucinski2001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KarolKucinski2001/LeetCode/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/KarolKucinski2001/LeetCode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
