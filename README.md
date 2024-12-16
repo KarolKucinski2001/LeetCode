@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/KarolKucinski2001/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/KarolKucinski2001/LeetCode/tree/master/0610-triangle-judgement) |
 | [1179-game-play-analysis-i](https://github.com/KarolKucinski2001/LeetCode/tree/master/1179-game-play-analysis-i) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/KarolKucinski2001/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bit Manipulation
 |  |
 | ------- |
