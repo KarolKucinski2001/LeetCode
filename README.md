@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/KarolKucinski2001/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/KarolKucinski2001/LeetCode/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/KarolKucinski2001/LeetCode/tree/master/0196-delete-duplicate-emails) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/KarolKucinski2001/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0610-triangle-judgement](https://github.com/KarolKucinski2001/LeetCode/tree/master/0610-triangle-judgement) |
 | [1179-game-play-analysis-i](https://github.com/KarolKucinski2001/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1948-rearrange-products-table](https://github.com/KarolKucinski2001/LeetCode/tree/master/1948-rearrange-products-table) |
