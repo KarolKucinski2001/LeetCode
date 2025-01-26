@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KarolKucinski2001/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/KarolKucinski2001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/KarolKucinski2001/LeetCode/tree/master/0049-group-anagrams) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/KarolKucinski2001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/KarolKucinski2001/LeetCode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/KarolKucinski2001/LeetCode/tree/master/0049-group-anagrams) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KarolKucinski2001/LeetCode/tree/master/0049-group-anagrams) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/KarolKucinski2001/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
