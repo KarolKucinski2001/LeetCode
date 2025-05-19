@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/KarolKucinski2001/LeetCode/tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/KarolKucinski2001/LeetCode/tree/master/1086-divisor-game) |
+| [1764-maximum-repeating-substring](https://github.com/KarolKucinski2001/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Memoization
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KarolKucinski2001/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/KarolKucinski2001/LeetCode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/KarolKucinski2001/LeetCode/tree/master/0067-add-binary) |
+| [1764-maximum-repeating-substring](https://github.com/KarolKucinski2001/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Array
 |  |
 | ------- |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KarolKucinski2001/LeetCode/tree/master/0036-valid-sudoku) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/KarolKucinski2001/LeetCode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
