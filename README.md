@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KarolKucinski2001/LeetCode/tree/master/0070-climbing-stairs) |
+| [0747-min-cost-climbing-stairs](https://github.com/KarolKucinski2001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/KarolKucinski2001/LeetCode/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/KarolKucinski2001/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Memoization
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/KarolKucinski2001/LeetCode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/KarolKucinski2001/LeetCode/tree/master/0049-group-anagrams) |
+| [0747-min-cost-climbing-stairs](https://github.com/KarolKucinski2001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarolKucinski2001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarolKucinski2001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/KarolKucinski2001/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
