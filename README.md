@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KarolKucinski2001/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/KarolKucinski2001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/KarolKucinski2001/LeetCode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0047-permutations-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KarolKucinski2001/LeetCode/tree/master/0011-container-with-most-water) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarolKucinski2001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/KarolKucinski2001/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Stack
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1764-maximum-repeating-substring](https://github.com/KarolKucinski2001/LeetCode/tree/master/1764-maximum-repeating-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/KarolKucinski2001/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
