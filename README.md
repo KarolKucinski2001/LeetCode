@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KarolKucinski2001/LeetCode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/KarolKucinski2001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/KarolKucinski2001/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/KarolKucinski2001/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/KarolKucinski2001/LeetCode/tree/master/0049-group-anagrams) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarolKucinski2001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/KarolKucinski2001/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/KarolKucinski2001/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0047-permutations-ii) |
 ## Tree
 |  |
