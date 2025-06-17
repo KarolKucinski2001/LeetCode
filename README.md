@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/KarolKucinski2001/LeetCode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/KarolKucinski2001/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/KarolKucinski2001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KarolKucinski2001/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/KarolKucinski2001/LeetCode/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/KarolKucinski2001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarolKucinski2001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/KarolKucinski2001/LeetCode/tree/master/0036-valid-sudoku) |
+| [0063-unique-paths-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0063-unique-paths-ii) |
 ## String Matching
 |  |
 | ------- |
