@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/KarolKucinski2001/LeetCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/KarolKucinski2001/LeetCode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/KarolKucinski2001/LeetCode/tree/master/0070-climbing-stairs) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KarolKucinski2001/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/KarolKucinski2001/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/KarolKucinski2001/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/KarolKucinski2001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/KarolKucinski2001/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/KarolKucinski2001/LeetCode/tree/master/0055-jump-game) |
 ## Combinatorics
 |  |
 | ------- |
