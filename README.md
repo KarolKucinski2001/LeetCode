@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KarolKucinski2001/LeetCode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/KarolKucinski2001/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/KarolKucinski2001/LeetCode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/KarolKucinski2001/LeetCode/tree/master/0202-happy-number) |
 | [1086-divisor-game](https://github.com/KarolKucinski2001/LeetCode/tree/master/1086-divisor-game) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KarolKucinski2001/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/KarolKucinski2001/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/KarolKucinski2001/LeetCode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/KarolKucinski2001/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/KarolKucinski2001/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/KarolKucinski2001/LeetCode/tree/master/0015-3sum) |
+| [0202-happy-number](https://github.com/KarolKucinski2001/LeetCode/tree/master/0202-happy-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarolKucinski2001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/KarolKucinski2001/LeetCode/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Stack
