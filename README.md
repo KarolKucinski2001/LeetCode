@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/KarolKucinski2001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/KarolKucinski2001/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarolKucinski2001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/KarolKucinski2001/LeetCode/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/KarolKucinski2001/LeetCode/tree/master/1764-maximum-repeating-substring) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/KarolKucinski2001/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0198-house-robber](https://github.com/KarolKucinski2001/LeetCode/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/KarolKucinski2001/LeetCode/tree/master/0213-house-robber-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/KarolKucinski2001/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/KarolKucinski2001/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/KarolKucinski2001/LeetCode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
